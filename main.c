@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("2 commit master\n");
+  printf("1 commit develop\n");
   
     return 0;
 }
